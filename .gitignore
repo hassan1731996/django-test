@@ -127,6 +127,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.idea
+.DS_Store
+core/media
 
 # Spyder project settings
 .spyderproject
